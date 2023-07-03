@@ -23,7 +23,7 @@ Vector Databases List ( Commercial / Opensource )
 * [Amazon Open Search Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/knn.html)
 * [Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
 * [Annoy](https://github.com/spotify/annoy)
-* [Non-Metric Space Library (NMSLIB)](https://github.com/nmslib/nmslib)
+* [Non-Metric Space Library - NMSLIB](https://github.com/nmslib/nmslib)
 * [Elastic Search](https://www.elastic.co/guide/en/elasticsearch/reference/current/dense-vector.html)
 
 
@@ -35,4 +35,4 @@ Vector Databases 101
 * [Pinecone vector database 101](https://www.pinecone.io/learn/vector-database) 
 * [Microsoft Semantic Kernel Vector-db](https://learn.microsoft.com/en-us/semantic-kernel/memories/vector-db) 
 * [Dev.to Vector DB 101](https://dev.to/josethz00/vector-databases-5df1) 
-* [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696 
+* [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)  
