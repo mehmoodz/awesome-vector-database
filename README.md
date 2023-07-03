@@ -35,4 +35,6 @@ Vector Databases 101
 * [Pinecone vector database 101](https://www.pinecone.io/learn/vector-database) 
 * [Microsoft Semantic Kernel Vector-db](https://learn.microsoft.com/en-us/semantic-kernel/memories/vector-db) 
 * [Dev.to Vector DB 101](https://dev.to/josethz00/vector-databases-5df1) 
-* [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)  
+* [Not All Vector Databases Are Made Equal](https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696)
+* [A Gentle intro to Vector DB by Frank Liu](https://frankzliu.com/blog/a-gentle-introduction-to-vector-databases)
+
