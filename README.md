@@ -19,7 +19,7 @@ Vector Databases List ( Commercial / Opensource )
 * [Milvus](https://milvus.io/)
 * [Postgres (pg_vector)](https://github.com/pgvector/pgvector/)
   * [Amazon Hosted pg_vector](https://aws.amazon.com/rds/postgresql/)
-* [Weaviate](https://www.weaviate.io/)https://www.weaviate.io/
+* [Weaviate](https://www.weaviate.io/)
 * [Amazon Open Search Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/knn.html)
 * [Amazon Neptune ML](https://aws.amazon.com/neptune/machine-learning/)
 * [Annoy](https://github.com/spotify/annoy)
