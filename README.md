@@ -17,7 +17,7 @@ Vector Databases List ( Commercial / Opensource )
 * [Faiss (by Meta)](https://ai.facebook.com/tools/faiss/)
 * [Pinecone](https://www.pinecone.io/)
 * [Milvus](https://milvus.io/)
-* [Postgres (pg_vector)](https://github.com/pgvector/pgvector/)https://github.com/pgvector/pgvector/
+* [Postgres (pg_vector)](https://github.com/pgvector/pgvector/)
   * [Amazon Hosted pg_vector](https://aws.amazon.com/rds/postgresql/)
 * [Weaviate](https://www.weaviate.io/)https://www.weaviate.io/
 * [Amazon Open Search Service](https://docs.aws.amazon.com/opensearch-service/latest/developerguide/knn.html)
