@@ -25,6 +25,7 @@ Vector Databases List ( Commercial / Opensource )
 * [Annoy](https://github.com/spotify/annoy)
 * [Non-Metric Space Library - NMSLIB](https://github.com/nmslib/nmslib)
 * [Elastic Search](https://www.elastic.co/guide/en/elasticsearch/reference/current/dense-vector.html)
+* [Single Store](https://www.singlestore.com/built-in-vector-database/)
 
 
 Vector Databases Knowledge base
